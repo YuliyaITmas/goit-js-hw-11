@@ -1,0 +1,31 @@
+.load-more {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #b749b7;
+  cursor: pointer;
+  padding: 15px 30px;
+  color: fff;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  justify-content: center;
+  align-items: center;
+ 
+
+
+}
+
+.is-hidden {
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+    padding: 0;
+  }
+
+  // .button-wrap {
+  //   margin-top: auto;
+   
+  // }
